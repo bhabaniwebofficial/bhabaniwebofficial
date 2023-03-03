@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/3052691/screenshots/6178918/coding.gif)]
+![MasterHead](https://cdn.dribbble.com/users/3052691/screenshots/6178918/coding.gif)
 
 <h1 align="center">Hi 👋, I'm Bhabani Shankar Mohanta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
